@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Squada+One&pause=1000&center=true&random=false&width=435&lines=Hello+there" alt="Hello there">
-    <iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">via GIPHY</a></p>
+    <img src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">via GIPHY</a></p>
 </h1>
 
 <div align="left">
