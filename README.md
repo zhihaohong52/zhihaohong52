@@ -1,6 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+    <img> src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there)](https://git.io/typing-svg)"
+</h1>
 
+<div>
 Welcome to my Github profile! Check out my portfolio on [Portfolio webpage](https://zhihaohong52.github.io)!
+
+</div>
 
 <!--
 **zhihaohong52/zhihaohong52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
