@@ -1,10 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there)](https://git.io/typing-svg)"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there" alt="Hello there">
 </h1>
 
-<div>
-Welcome to my Github profile! Check out my portfolio on [Portfolio webpage](https://zhihaohong52.github.io)!
-
+<div align="left">
+    Welcome to my Github profile! Check out my portfolio on <a href="https://zhihaohong52.github.io">Portfolio webpage</a>!
 </div>
 
 <!--
