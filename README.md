@@ -1,7 +1,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Squada+One&pause=1000&center=true&random=false&width=435&lines=Hello+there" alt="Hello there">
-    <img src="[https://giphy.com/embed/xTiIzJSKB4l7xTouE8](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ2ZGY0bzZweG1kOHV0dmtzM2kydWNjYzV3ajVqcDg4ZnNkZTEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif)"> 
 </h1>
+
+<h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ2ZGY0bzZweG1kOHV0dmtzM2kydWNjYzV3ajVqcDg4ZnNkZTEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif">
+</h2>
 
 <div align="left">
     Welcome to my Github profile! Check out my portfolio on <a href="https://zhihaohong52.github.io">Portfolio webpage</a>!
