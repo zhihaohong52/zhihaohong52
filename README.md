@@ -6,6 +6,18 @@
     Welcome to my Github profile! Check out my portfolio on <a href="https://zhihaohong52.github.io">Portfolio webpage</a>!
 </div>
 
+<div align="left">
+    <h3> About me </h3>
+    📖 I am a penultimate undergraduate at Nanyang Technological University, pursuing a double degree in Business Analytics and Computer Engineering!
+</div>
+
+<hr/>
+<h3 align="left"> My stats</h3>
+<div align="left">
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=zhihaohong52&show_icons=true&theme=radial">
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhihaohong52&layout=compact">
+</div>
+
 <!--
 **zhihaohong52/zhihaohong52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
