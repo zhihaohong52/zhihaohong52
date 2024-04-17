@@ -1,15 +1,13 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Squada+One&pause=1000&center=true&random=false&width=435&lines=Hello+there" alt="Hello there"><br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Squada+One&weight=900&pause=1000&center=true&random=false&width=435&lines=Hello+there"><br>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ2ZGY0bzZweG1kOHV0dmtzM2kydWNjYzV3ajVqcDg4ZnNkZTEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif">
 </h1>
 
 <div align="left">
-    Welcome to my Github profile! Check out my portfolio on <a href="https://zhihaohong52.github.io">Portfolio webpage</a>!
-</div>
-
-<div align="left">
-    <h3> About me </h3>
-    📖 I am a penultimate undergraduate at Nanyang Technological University, pursuing a double degree in Business Analytics and Computer Engineering!
+<h3> About me </h3>
+📖 I am a penultimate undergraduate at Nanyang Technological University, pursuing a double degree in Business Analytics and Computer Engineering!<br>
+<br>
+For more information, head to my portfolio on <a href="https://zhihaohong52.github.io">Portfolio webpage</a>!
 </div>
 
 <hr/>
@@ -18,6 +16,13 @@
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=zhihaohong52&show_icons=true&theme=radial">
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhihaohong52&layout=compact">
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:zhihao.hong.52@gmail.com"><img align="center" src="https://https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zhihaohong52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/zhihao.hong.52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
 
 <!--
 **zhihaohong52/zhihaohong52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
