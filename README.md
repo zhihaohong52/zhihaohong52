@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my Github profile! Check out my portfolio on [Portfolio webpage](https://zhihaohong52.github.io)!
+
 <!--
 **zhihaohong52/zhihaohong52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
