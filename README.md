@@ -24,7 +24,7 @@ For more information, head to my portfolio on <a href="https://zhihaohong52.gith
 <a href="https://www.instagram.com/zhihao.hong.52" target="blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<div align="center"
+<div align="center">
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12154528144)
 </div>
 
