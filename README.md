@@ -12,7 +12,7 @@ For more information, head to my portfolio on <a href="https://zhihaohong52.gith
 
 <hr/>
 <h3 align="left"> My stats</h3>
-<div align="left">
+<div align="center">
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=zhihaohong52&show_icons=true&theme=radial">
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhihaohong52&layout=compact">
 </div>
@@ -23,6 +23,10 @@ For more information, head to my portfolio on <a href="https://zhihaohong52.gith
 <a href="https://www.linkedin.com/in/zhihaohong52" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/zhihao.hong.52" target="blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
+<h3 align="left">
+<a href"https://spotify-recently-played-readme.vercel.app/api?user=12154528144"/></a>
+</h3>
 
 <!--
 **zhihaohong52/zhihaohong52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
