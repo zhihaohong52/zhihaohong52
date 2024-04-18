@@ -24,7 +24,7 @@ For more information, head to my portfolio on <a href="https://zhihaohong52.gith
 <a href="https://www.instagram.com/zhihao.hong.52" target="blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12154528144)
 
 <!--
 **zhihaohong52/zhihaohong52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
