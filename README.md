@@ -7,7 +7,7 @@
 <h3> About me </h3>
 📖 I am a penultimate undergraduate at Nanyang Technological University, pursuing a double degree in Business Analytics and Computer Engineering!<br>
 <br>
-For more information, head to my portfolio on <a href="https://zhihaohong52.github.io", target='_blank'>Portfolio webpage</a>!
+For more information, head to my portfolio on <a href="https://zhihaohong52.github.io", target="_blank">Portfolio webpage</a>!
 </div>
 
 <hr/>
