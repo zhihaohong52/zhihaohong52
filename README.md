@@ -12,8 +12,8 @@ For more information, head to my portfolio on <a href="https://zhihaohong52.gith
 
 <hr/>
 <h3 align="left"> My stats</h3>
-<div align="center">
 ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+<div align="center">
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=zhihaohong52&show_icons=true&theme=radial">
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhihaohong52&layout=compact">
 
