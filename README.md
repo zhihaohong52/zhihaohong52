@@ -5,7 +5,7 @@
 
 <div align="left">
 <h3> About me </h3>
-📖 I am a final year undergraduate at Nanyang Technological University, pursuing a double degree in Business Analytics and Computer Engineering!<br>
+📖 I am currently a People Tech Analyst at Advance Intelligence Group. I graduated from Nanyang Technological University with a double degree in Business Analytics and Computer Engineering!<br>
 <br>
 For more information, head to my portfolio on <a href="https://zhihaohong52.github.io", target="_blank">Portfolio webpage</a>!
 </div>
