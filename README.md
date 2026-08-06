@@ -13,7 +13,8 @@ For more information, head to my portfolio on <a href="https://zhihaohong52.gith
 <hr/>
 <h3 align="left"> My stats</h3>
 <div align="center">
-<img width="390" src="[![Zhi Hao's GitHub stats](https://github-stats-extended.vercel.app/api?username=zhihaohong52)]">
+<img width="390" src="(https://github-stats-extended.vercel.app/api?username=zhihaohong52&theme=dracula)">
+<img width="390" src="(https://github-stats-extended.vercel.app/api/top_langs/?username=zhihaohong52&theme=dracula)">
 
 ![Profile views](https://komarev.com/ghpvc/?username=zhihaohong52&abbreviated=true)
 
