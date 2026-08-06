@@ -11,15 +11,30 @@ For more information, head to my portfolio on <a href="https://zhihaohong52.gith
 </div>
 
 <hr/>
-<h3 align="left"> My stats</h3>
-<div align="center">
-<img width="390" src="https://github-stats-extended.vercel.app/api?username=zhihaohong52&theme=dracula">
-<br></br>
-<img width="390" src="https://github-stats-extended.vercel.app/api/top-langs?username=zhihaohong52&langs_count=5&theme=dracula">
+<h3 align="left">My stats</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=zhihaohong52&abbreviated=true)
+<p align="center">
+  <img
+    width="390"
+    src="https://github-stats-extended.vercel.app/api?username=zhihaohong52&theme=dracula"
+    alt="GitHub stats"
+  />
+</p>
 
-</div>
+<p align="center">
+  <img
+    width="390"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=zhihaohong52&langs_count=5&theme=dracula"
+    alt="Top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=zhihaohong52&abbreviated=true"
+    alt="Profile views"
+  />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
